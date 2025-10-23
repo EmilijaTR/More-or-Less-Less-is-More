@@ -14,4 +14,3 @@ A Java Swing-based puzzle game where players combine numbers using mathematical 
 1. Compile the Java files:
    ```bash
    javac *.java
-   java Main
